@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **amritkumarupreti@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
