@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amrit Upreti</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently mastering **React**
 
 - 📫 How to reach me **amritkumarupreti@gmail.com**
 
