@@ -32,20 +32,15 @@ I'm a passionate Full Stack Developer with a diverse set of skills in building r
 - **Git & GitHub**: Version control and collaborative development.
 - **Vite**: Fast build tool for modern web projects.
 
-## 🔧 Projects & Contributions
-
-### [Project 1 Name](https://github.com/yourusername/project1)
-A brief description of what this project does, the technologies used, and your role in it.
-
-### [Project 2 Name](https://github.com/yourusername/project2)
-A brief description of what this project does, the technologies used, and your role in it.
-
-### [Project 3 Name](https://github.com/yourusername/project3)
-A brief description of what this project does, the technologies used, and your role in it.
-
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amritupreti&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amritupreti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amritupreti&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shahiutsav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📫 How to reach me
 
